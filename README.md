@@ -33,6 +33,22 @@ The "d3tz" notebook is a deep dive in NLP, but the lesson learned is applied equ
 
 - Typically a dog name is chosen, e.g., "Lefty," "Zeta," or "Gamma," but be warned, don't name it after your cat because a "cat" will not follow any commands.
 
+- Naturally, as with other sandbox projects, you should hack the notebook and change the name to your preference.
+
+- As a good little programmer, Henna starts by creating an object or class.
+
+- Henna uses the "river" coding style for all "sandbox" projects.
+
+- The style uses a full library name, sub-class, and following by the function name. Jupyter notebook has auto-complete, so Henna can use the long-name and not misspelling them. The bonus is that when Henna type a dot (".") after an object, the list of possible methods and variables are displayed.
+
+- Henna is NOT using the global-space as in "import numpy *" or using the shorten name like "import matplotlibl.pyplot as ptl” instead of using the full {river} name as in “numpy.random.randint().”
+
+- In addition, she shies away from using Python language-specific syntax shorthand, such as the “assigned if.”
+
+- The primary reason for using the “river” coding style coupled with a descriptive naming convention is that it is easier to read, hack, and translate to Swift or Javascript.
+
+- Henna is in the exploration journey, and therefore, she will considering code compaction and code optimization when she refactors them in the Python project using Atom IDE.
+
 ![output](https://github.com/duchaba/demystify_nlp_data_tokenizer_d3tz/blob/main/henna.jpg)
 
 ><center><h2><i>The journey continues in the Jupyter notebook below.</i></h2></center>
